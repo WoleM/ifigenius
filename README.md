@@ -26,7 +26,7 @@
     - [:interrobang:] gui controller
     
 `current state in graphic interchange format`
-![](https://github.com/WoleM/ifigenius/blob/master/DESKTOP2021-02-08 19-51-03.gif)
+![](https://github.com/WoleM/ifigenius/blob/master/DESKTOP2021-02-08%2019-51-03.gif)
 
 
 **GNU Affero General Public License v3.0**
